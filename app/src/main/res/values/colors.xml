@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#4046ff</color>
+    <!-- Color del fondo-->
+    <color name="colorBg">#61617c</color>
+    <!-- Color del botón flotante -->
+    <color name="colorBtnFloat">#020a74</color>
+    <!-- Color del título -->
+    <color name="colorTitle">#ffffff</color>
+    <!-- Color del texto del botón -->
+    <color name="colorTextBtn">#002fa6</color>
+</resources>

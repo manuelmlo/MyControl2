@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">il mio telecomando</string>
+    <string name="action_settings">Preferenze</string>
+    <string name="btnPreview">Prossimamente</string>
+    <string name="title">Telecomando</string>
+</resources>
